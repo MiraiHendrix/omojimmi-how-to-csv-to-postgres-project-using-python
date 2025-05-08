@@ -2,8 +2,8 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Replace with your actual PostgreSQL password
-DB_USER = "postgres"
-DB_PASS = "266277"
+DB_USER = "postgressor_inputyaownuser"
+DB_PASS = "input_ya_own_pword"
 DB_NAME = "ny_taxi"
 DB_HOST = "localhost"
 DB_PORT = "5432"
