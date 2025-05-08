@@ -1,4 +1,4 @@
--- Create the correct yellow_taxi_data table
+-- Omojimmi created the correct yellow_taxi_data table
 CREATE TABLE IF NOT EXISTS yellow_taxi_data (
     vendor_id VARCHAR,
     pickup_datetime TIMESTAMP,
