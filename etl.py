@@ -2,11 +2,11 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Replace with your actual PostgreSQL password
-DB_USER = "postgres"
-DB_PASS = "266277"
+DB_USER = "ya_own_name_please"
+DB_PASS = "put_ya_own_pword"
 DB_NAME = "ny_taxi"
 DB_HOST = "localhost"
-DB_PORT = "5432"
+DB_PORT = "5 and ya own port ya want to be listening"
 
 # Load sample data
 url = "https://github.com/DataTalksClub/nyc-tlc-data/releases/download/yellow/yellow_tripdata_2021-01.csv.gz"
